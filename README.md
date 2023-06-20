@@ -61,10 +61,6 @@
 
 ---
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=motivational)
-
----
-
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manjurul-karim&theme=white&background=FFFFFF)](https://git.io/streak-stats)   
  ![Manjurul's GitHub stats](https://github-readme-stats.vercel.app/api?username=manjurul-karim&show_icons=true&theme=transparent)     
