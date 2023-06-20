@@ -62,6 +62,7 @@
 ---
 
 ### :fire: My Stats :
- ![Manjurul's GitHub stats](https://github-readme-stats.vercel.app/api?username=manjurul-karim&show_icons=true&theme=transparent) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manjurul-karim&theme=white&background=FFFFFF)](https://git.io/streak-stats)       
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manjurul-karim&theme=white&background=FFFFFF)](https://git.io/streak-stats)   
+ ![Manjurul's GitHub stats](https://github-readme-stats.vercel.app/api?username=manjurul-karim&show_icons=true&theme=transparent)     
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manjurul-karim&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 
