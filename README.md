@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Manjurul Karim
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -17,18 +17,24 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=manjurul-karim&style=flat-square&color=blue" alt=""/></div>
+
+### Hi there 👋 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :man_technologist: About Me :
 
 <!--
-**manjurul-karim/manjurul-karim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...MERN stack
+- 🔭 I’m currently working on ... -->
+- 🌱 I’m currently learning MERN stack Development from Bangladesh
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about : HTML, CSS, JavaScript, React,Express, MongoDB
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=gmail&logoColor=white)](manjkurul17002@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
