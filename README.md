@@ -21,8 +21,8 @@
 
 <div align="center">
  <h1>Hi
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm </h1>
- <h1> $${\color{blue}Manjurul}$$</h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm
+ Manjurul</h1>
 </div>
 
 
@@ -36,7 +36,7 @@
 
 <!--
 - 🔭 I’m currently working on ... -->
- $${\color{red}I’m \space currently \space learning } \space {\color{lightblue}MERN \space stack \space Development } \space {\color{lightgreen}from \space Bangladesh}$$
+ - 🌱 I’m  currently  learning **MERN** stack  Development from  *Bangladesh*
 - 📄 Check out my : <a href="https://drive.google.com/file/d/1gHI8bV-2bbza5ZW4aNeBVaTqTEIoF6BD/view?usp=sharing">**Resume**</a> 
 <!--- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... -->
