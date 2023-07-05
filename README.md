@@ -34,7 +34,7 @@
 
 <!--
 - 🔭 I’m currently working on ... -->
-- 🌱 $${\color{red}I’m \space currently \space learning } \space {\color{lightblue}MERN \space stack \space Development } \space {\color{lightgreen}from \space Bangladesh}$$
+ $${\color{red}I’m \space currently \space learning } \space {\color{lightblue}MERN \space stack \space Development } \space {\color{lightgreen}from \space Bangladesh}$$
 - 📄 Check out my : <a href="https://drive.google.com/file/d/1gHI8bV-2bbza5ZW4aNeBVaTqTEIoF6BD/view?usp=sharing">**Resume**</a> 
 <!--- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... -->
