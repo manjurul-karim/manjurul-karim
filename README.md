@@ -67,3 +67,11 @@
  ![Manjurul's GitHub stats](https://github-readme-stats.vercel.app/api?username=manjurul-karim&show_icons=true&theme=transparent)     
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manjurul-karim&layout=compact&theme=vision-friendly-light)](https://github.com/manjurul-karim/github-readme-stats)
 
+
+ ---
+<p align="center"> © 2023 manjurul-karim, all rights reserved. Made with ❤️ for a better web. </p>
+<p align="center">
+<a href="https://manjurul-karim-835d19.netlify.app/" target="_blank">manjurul-karim</a>
+  
+</p>
+
