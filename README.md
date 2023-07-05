@@ -74,6 +74,5 @@
 <p align="center"> © 2023 manjurul-karim, all rights reserved. Made with ❤️ for a better web. </p>
 <p align="center">
 <a href="https://manjurul-karim-835d19.netlify.app/" target="_blank">manjurul-karim</a>
-  
 </p>
 
