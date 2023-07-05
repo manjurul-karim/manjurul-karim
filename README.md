@@ -36,7 +36,7 @@
 <!--- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about : HTML, CSS, JavaScript, React,Express, MongoDB
-- 📫 How to reach me: manjurul17002@gmail.com
+- 📫 How to reach me: [Contact Us](mailto:manjurul17002@gmail.com)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
