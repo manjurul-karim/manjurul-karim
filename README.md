@@ -21,8 +21,7 @@
 
 <h1 align="center">
  Hi
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  I'm Manjurul
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm $${\color{blue} \space Manjurul}$$
 </h1>
 
 <div align="center">
@@ -35,7 +34,8 @@
 
 <!--
 - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning MERN stack Development from Bangladesh
+- 🌱 $${\color{red}I’m \space currently \space learning } \space {\color{lightblue}MERN \space stack \space Development } \space {\color{lightgreen}from \space Bangladesh}$$
+- 📄 Check out my : <a href="https://drive.google.com/file/d/1gHI8bV-2bbza5ZW4aNeBVaTqTEIoF6BD/view?usp=sharing">**Resume**</a> 
 <!--- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about : HTML, CSS, JavaScript, React,Express, MongoDB
