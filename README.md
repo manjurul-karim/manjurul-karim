@@ -4,6 +4,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
+  <a href="https://manjurul-karim-835d19.netlify.app/">
+    <img src="https://img.shields.io/badge/portfolio-blue?style=for-the-badge&logo=portfolio&logoColor=white" alt="portfolio Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/manjurulkarim/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -36,7 +39,7 @@
 <!--- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about : HTML, CSS, JavaScript, React,Express, MongoDB
-- 📫 How to reach me: [Contact Us](mailto:manjurul17002@gmail.com)
+- 📫 Reach me at: [Gmail](mailto:manjurul17002@gmail.com)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
