@@ -39,7 +39,7 @@
 <!--- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about : HTML, CSS, JavaScript, React,Express, MongoDB
-- 📫 Reach me at: [Gmail](mailto:manjurul17002@gmail.com)
+- 📫 Reach me at: [![Gmail Badge](https://img.shields.io/badge/gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:manjurul17002@gmail.com)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
