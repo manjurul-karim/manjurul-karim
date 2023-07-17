@@ -37,10 +37,10 @@
 <!--
 - 🔭 I’m currently working on ... -->
  - 🌱 I’m  currently  learning **MERN** stack  Development from  *Bangladesh*
-- 📄 Check out my : <a href="https://drive.google.com/file/d/1gHI8bV-2bbza5ZW4aNeBVaTqTEIoF6BD/view?usp=sharing">**Resume**</a> 
+- 📄 Check out my : <a href="https://drive.google.com/file/d/1feuhdLIV93bvXtfiHljBz7pghlPm83wn/view?usp=sharing">**Resume**</a> 
 <!--- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about : HTML, CSS, JavaScript, React,Express, MongoDB
+- 💬 Ask me about HTML, CSS, JavaScript, React, NodeJS, ExpressJS, MongoDB
 - 📫 Reach me at: [![Gmail Badge](https://img.shields.io/badge/gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:manjurul17002@gmail.com)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
