@@ -5,7 +5,7 @@
 </div>
 <div id="badges" align="center">
   <a href="https://manjurul-karim-835d19.netlify.app/">
-    <img src="https://img.shields.io/badge/portfolio-blue?style=for-the-badge&logo=portfolio&logoColor=white" alt="portfolio Badge"/>
+    <img src="https://img.shields.io/badge/portfolio-brown?style=for-the-badge&logo=portfolio&logoColor=white" alt="portfolio Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/manjurulkarim/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
