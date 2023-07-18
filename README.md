@@ -36,11 +36,14 @@
 
 <!--
 - 🔭 I’m currently working on ... -->
- - 🌱 I’m  currently  learning **MERN** stack  Development from  *Bangladesh*
-- 📄 Check out my : <a href="https://drive.google.com/file/d/1feuhdLIV93bvXtfiHljBz7pghlPm83wn/view?usp=sharing">**Resume**</a> 
+- 🌱 I’m  currently  learning **MERN** stack  Development from  *Bangladesh*
+- 📄 Check out my : <a href="https://drive.google.com/file/d/1feuhdLIV93bvXtfiHljBz7pghlPm83wn/view?usp=sharing"><img src="https://img.shields.io/badge/resume-blue?style=for-the-badge&logo=portfolio&logoColor=white" alt="resume Badge"/></a> 
 <!--- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about HTML, CSS, JavaScript, React, NodeJS, ExpressJS, MongoDB
+- ⚓ Portfolio :  <a href="https://manjurul-karim-835d19.netlify.app/">
+    <img src="https://img.shields.io/badge/portfolio-brown?style=for-the-badge&logo=portfolio&logoColor=white" alt="portfolio Badge"/>
+  </a>
 - 📫 Reach me at: [![Gmail Badge](https://img.shields.io/badge/gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:manjurul17002@gmail.com)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
