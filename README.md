@@ -1,11 +1,9 @@
-
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://manjurul-karim-835d19.netlify.app/">
-    <img src="https://img.shields.io/badge/portfolio-brown?style=for-the-badge&logo=portfolio&logoColor=white" alt="portfolio Badge"/>
+    <img src="https://img.shields.io/badge/portfolio-dodgerblue?style=for-the-badge&logo=portfolio&logoColor=white" alt="portfolio Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/manjurulkarim/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -41,8 +39,8 @@
 <!--- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about HTML, CSS, JavaScript, React, NodeJS, ExpressJS, MongoDB
-- ⚓ Portfolio :  <a href="https://manjurul-karim-835d19.netlify.app/">
-    <img src="https://img.shields.io/badge/portfolio-brown?style=for-the-badge&logo=portfolio&logoColor=white" alt="portfolio Badge"/>
+- ⚓ Check Out My :  <a href="https://manjurul-karim-835d19.netlify.app/">
+    <img src="https://img.shields.io/badge/portfolio-dodgerblue?style=for-the-badge&logo=portfolio&logoColor=white" alt="portfolio Badge"/>
   </a>
 - 📫 Reach me at: [![Gmail Badge](https://img.shields.io/badge/gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:manjurul17002@gmail.com)
 <!-- - 😄 Pronouns: ...
