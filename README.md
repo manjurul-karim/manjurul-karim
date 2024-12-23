@@ -13,18 +13,12 @@
 
 ### 📨 Reach Out Me:
 <div id="badges" align="center">
-  <a href="https://manjurul-karim-835d19.netlify.app/">
-    <img src="https://img.shields.io/badge/portfolio-dodgerblue?style=for-the-badge&logo=portfolio&logoColor=white" alt="portfolio Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/manjurulkarim/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/manjurul_karim">
-    <img src="https://img.shields.io/badge/Twitter-dodgerblue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-   <a href="https://www.facebook.com/mmkarimtanjil">
-    <img src="https://img.shields.io/badge/FaceBook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manjurul.karim1994@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mmkarimtanjil)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjurulkarim/) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/manjurul-karim)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/manjurul_karim)
 </div>
 <!-- <div align="center">
  <h1>Hi
@@ -33,10 +27,7 @@
   
 </div> -->
 
-
-
 ---
-
 ### :man_technologist: About Me :
 
 <!--
