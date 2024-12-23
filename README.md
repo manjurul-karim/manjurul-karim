@@ -1,6 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+👋+There!;This+is+Manjurul+Karim....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 </div>
+
+<div align="center"><img src="https://komarev.com/ghpvc/?username=manjurul-karim&style=flat-square&color=blue" alt=""/></div>
 <div id="badges" align="center">
   <a href="https://manjurul-karim-835d19.netlify.app/">
     <img src="https://img.shields.io/badge/portfolio-dodgerblue?style=for-the-badge&logo=portfolio&logoColor=white" alt="portfolio Badge"/>
@@ -15,18 +22,12 @@
     <img src="https://img.shields.io/badge/FaceBook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<div align="center"><img src="https://komarev.com/ghpvc/?username=manjurul-karim&style=flat-square&color=blue" alt=""/></div>
-
-<div align="center">
+<!-- <div align="center">
  <h1>Hi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm
  Manjurul</h1>
-  <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+👋+There!;This+is+Manjurul+Karim....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-</div>
+  
+</div> -->
 
 
 <div align="center">
