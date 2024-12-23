@@ -1,13 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+👋+There!;This+is+Manjurul+Karim....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=167AF7&center=true&vCenter=true&width=435&lines=Hello%2C%F0%9F%91%8BThere!;This+is+Manjurul+Karim;I'm+Learning+MERN+Stack;Very+nice+to+meet+you." alt="Typing SVG" /></a>
 </div>
 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=manjurul-karim&style=flat-square&color=blue" alt=""/></div>
+----
+
+<div align="start"><img src="https://komarev.com/ghpvc/?username=manjurul-karim&style=flat-square&color=red" alt=""/></div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
