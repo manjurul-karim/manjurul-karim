@@ -12,7 +12,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### :Contact With Me:
+### 📨 Reach Out Me:
 <div id="badges" align="center">
   <a href="https://manjurul-karim-835d19.netlify.app/">
     <img src="https://img.shields.io/badge/portfolio-dodgerblue?style=for-the-badge&logo=portfolio&logoColor=white" alt="portfolio Badge"/>
